@@ -28,8 +28,6 @@ const val NONCE_TIMEOUT = 1000 * 60 * 5
 
 // Package name of the client application
 const val APPLICATION_PACKAGE_IDENTIFIER = "your.package.identifier"
-//const val APPLICATION_PACKAGE_IDENTIFIER = "com.googlenct.sample.nativegamepad"
-//const val APPLICATION_PACKAGE_IDENTIFIER = "com.your.app.package"
 
 // Values returned by the verdict that provide integrity signals
 const val VERDICT_VAL_MEETS_BASIC_INTEGRITY = "MEETS_BASIC_INTEGRITY"

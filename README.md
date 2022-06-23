@@ -1,4 +1,4 @@
-# Codelab for Play Asset Delivery in native games
+# Codelab for adding Play Integrity to an Android application
 
 This repository contains the sample projects for the
 Add Play Integrity codelab.
@@ -13,7 +13,8 @@ More information on the Play Integrity API can be found at:
 
 ## Support
 
-If you've found an error in these samples, please [file an issue](https://github.com/googlecodelabs/add-play-integrity/issues/new).
+If you've found an error in these samples, please [file an issue](https://github.com/android/add-play-integrity-codelab/issues/new).
+
 This is not an officially supported Google product.
 
 ## License
